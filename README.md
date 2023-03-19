@@ -20,10 +20,10 @@ Skills: HTML, CSS,JavaScript, DSA, Git, MongoDB, Express.js, React.js, and Node.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/bimalbasari&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/bimalbasari)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/bimalbasari)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/bimalbasari)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/bimalbasari)  
+<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/bimalbasari)   -->
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/bimalbasari)  
