@@ -2,8 +2,7 @@
 #### Web Developer
 <!-- ![Web Developer](profilrpicture.jpg) -->
 <!-- about me -->
-I'm a Full Stack Developer. I know HTML, CSS, Python, Java, JavaScript, DSA, Git, MongoDB, Express.js, React.js, and Node.js this language. I am also Strong in Critical Thinking, 
-Problem Solving, Time & Task Management
+As a fresher web developer, I am looking for an opportunity to apply my skills and knowledge in a professional setting. My goal is to gain practical experience and contribute to the development of innovative and user-friendly websites.
 <!-- Skill -->
 Skills: HTML, CSS, JavaScript, DSA, Git, MongoDB, Express.js, React.js, and Node.js
 
