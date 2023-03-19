@@ -1,10 +1,10 @@
 ### Hi there 👋,  I'm Bimal Basari
 #### Web Developer
-![Web Developer](https://cdn3.vectorstock.com/i/1000x1000/82/17/website-development-neon-banner-design-vector-26918217.jpg)
-
+<!-- ![Web Developer](profilrpicture.jpg) -->
+<!-- about me -->
 I'm a Full Stack Developer. I know HTML, CSS, Python, Java, JavaScript, DSA, Git, MongoDB, Express.js, React.js, and Node.js this language. I am also Strong in Critical Thinking, 
 Problem Solving, Time & Task Management
-
+<!-- Skill -->
 Skills: HTML, CSS, JavaScript, DSA, Git, MongoDB, Express.js, React.js, and Node.js
 
 - 🌱 I’m currently learning React js 
