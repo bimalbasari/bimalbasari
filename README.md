@@ -2,11 +2,11 @@
 #### Web Developer
 <!-- ![Web Developer](profilrpicture.jpg) -->
 <!-- about me -->
-As a fresher web developer, I am looking for an opportunity to apply my skills and knowledge in a professional setting. My goal is to gain practical experience and contribute to the development of innovative and user-friendly websites.
+As a fresher web developer, I am looking for an opportunity to professionally apply my skills and knowledge. I aim to gain practical experience and contribute to developing innovative and user-friendly websites.
 <!-- Skill -->
-Skills: HTML, CSS, JavaScript, Problem solving, Git, MongoDB, Express.js, React.js, and Node.js
+Skills: HTML, CSS, JavaScript, Problem-solving, Git, MongoDB, Express.js, React.js, and Node.js
 
-- 🌱 I’m currently learning React js 
+- 🌱 I’m currently learning Next js 
 - 💬 Ask me about Web Developer 
 - 📫 How to reach me: basaribimal@gmail.com 
 
